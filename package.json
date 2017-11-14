@@ -1,0 +1,24 @@
+{
+  "name": "json2memory",
+  "version": "1.0.0",
+  "description": "a plugin for pomelo to load json file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luckyqqk/json2memory.git"
+  },
+  "keywords": [
+    "json2memory",
+    "json-loader",
+    "file-loader"
+  ],
+  "author": "luckyqqk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luckyqqk/json2memory/issues"
+  },
+  "homepage": "https://github.com/luckyqqk/json2memory#readme"
+}
