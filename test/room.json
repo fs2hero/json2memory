@@ -1,0 +1,43 @@
+{
+  "whackMole-server-1":{
+    "maxChairs":303030
+  },
+  "fishHunter-server":{
+    "maxChairs":4,
+    "minCreditBalance" : 1000
+  },
+  "room" : {
+    "1":{
+      "maxChairs":4,
+      "minCreditBalance" : 4000,
+      "ratio":1,
+      "name":"1:1"
+    },
+    "2":{
+      "maxChairs":4,
+      "minCreditBalance" : 40000,
+      "ratio":0.1,
+      "name":"1:10__9_9_0"
+    },
+    "3":{
+      "maxChairs":4,
+      "minCreditBalance" : 400000,
+      "ratio":0.01,
+      "name":"1:100_8_9999"
+    }
+  },
+  "wallet" :{
+    "1":{
+      "auto":true,
+      "min":80000
+    },
+    "2":{
+      "auto":true,
+      "min":800000
+    },
+    "3":{
+      "auto":true,
+      "min":8000000
+    }
+  }
+}

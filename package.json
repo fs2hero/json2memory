@@ -1,5 +1,5 @@
 {
-  "name": "json2memory",
+  "name": "pomelo-config-loader",
   "version": "1.0.0",
   "description": "a plugin for pomelo to load json file",
   "main": "index.js",
@@ -11,7 +11,7 @@
     "url": "git+https://github.com/luckyqqk/json2memory.git"
   },
   "keywords": [
-    "json2memory",
+    "pomelo-config-loader",
     "json-loader",
     "file-loader"
   ],
@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/luckyqqk/json2memory/issues"
   },
-  "homepage": "https://github.com/luckyqqk/json2memory#readme"
+  "homepage": "https://github.com/luckyqqk/json2memory#readme",
+  "dependencies": {
+    "pomelo-logger": "^0.1.7"
+  }
 }
