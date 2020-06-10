@@ -18,7 +18,7 @@ var app = {
 
 var loader =new jsonLoader(app,{});
 
-console.log(loader.keys());
+console.log(loader.keys('test'));
 
 var l = app.get('jsonLoader');
 // console.log(l.getAll());
